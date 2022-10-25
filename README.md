@@ -1,13 +1,16 @@
 # Multiclass classification
 
-This project uses 5 pretrained models and analyzing the results.The dataset contains 5000 images with 625 images for each class. All the images are 150x150px in RGB mode.
+This project uses 5 pretrained models and analyzing the results.The dataset contains 5000 images with 625 images for each class. 
 
-Dataset : https://www.kaggle.com/kmader/colorectal-histology-mnist
+
 
 Literature source: https://www.nature.com/articles/srep27988
 
 ## Dataset:
-### Histological H&E images of of human colorectal cancer into 8 classes of tissue types:
+
+Dataset : https://www.kaggle.com/kmader/colorectal-histology-mnist
+All the images are 150x150px in RGB mode.
+### Histological H&E images of human colorectal cancer,8 classes of tissue types:
 
 - TUMOR  -- Tumour epithelium
 
